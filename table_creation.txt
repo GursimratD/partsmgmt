@@ -1,0 +1,7 @@
+Database Name: fix_auto
+Table Name: vehicle_details
+Columns- License_Plate, VIN, Car_Name, Customer_Name, Insurance, Claim_Number, In_Date, 
+Out_Date, All_Parts_Here
+
+Table Name: parts_details
+Columns- License_Plate, Qty, Type, Description, Part_Number, Est_Amt, Vnd_Amt, Vendor, Status, Invoice_Number, Delivery_Date, Comments
